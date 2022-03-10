@@ -1,8 +1,8 @@
 # Scripts
-1. # runmd
+## runmd
 runmd 可以直接运行markdown文件中的代码块和行内代码。
 
-## 使用方式
+### 使用方式
 
  输入命令`python srunmd.py <source_file>`会打开一个console。
  
@@ -15,7 +15,7 @@ runmd 可以直接运行markdown文件中的代码块和行内代码。
 - `<index>` 运行指定的代码块
 - `relaod` 命令重新加载文件
 
-## 功能
+### 功能
 
 1. ~~直接运行所有代码块中的代码~~
 2. ~~运行指定代码块中的代码~~
